@@ -3,7 +3,7 @@ package com.missionhack.arrays;
 import java.util.Arrays;
 
 public class MissingNumberInArray {
-// find the missing number in a given array
+// find the missing number in a given array 
 	public static void main(String[] args) {
 		int[] arr = { 6, 9, 7, 3, 4, 5, 2 }; // here missing number is 8
 		Arrays.sort(arr);
